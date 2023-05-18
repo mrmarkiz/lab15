@@ -49,7 +49,6 @@ namespace lab15
                             }
                         }
                         break;
-
                 }
             } while (choice != 0);
         }
